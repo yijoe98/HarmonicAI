@@ -1,0 +1,600 @@
+[{
+  "_id": {
+    "$oid": "6662e477786c1599f4e9609f"
+  },
+  "genre": "hiphop",
+  "mood": "energetic",
+  "music_description": "High-energy hip-hop track with driving 808s, crisp snares, and a pumping bassline, around 120 bpm."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960a0"
+  },
+  "genre": "hiphop",
+  "mood": "energetic",
+  "music_description": "Energetic hip-hop beat featuring syncopated hi-hats, a fast-paced trap drum pattern, and melodic synths, around 140 bpm"
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960a1"
+  },
+  "genre": "hiphop",
+  "mood": "energetic",
+  "music_description": "Intense hip-hop banger with distorted bass, rapid-fire rhymes, and a driving synthesizer lead, around 160 bpm."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960a2"
+  },
+  "genre": "hiphop",
+  "mood": "happy",
+  "music_description": "An upbeat hip-hop track infused with joyous melodies and lively rhythms, featuring a BPM of 100-110, with a preference for brass instruments and funky basslines."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960a3"
+  },
+  "genre": "hiphop",
+  "mood": "happy",
+  "music_description": "A cheerful hip-hop composition with a feel-good vibe, incorporating catchy hooks and vibrant percussions, aiming for a BPM range of 90-100, with a preference for piano chords and groovy drum beats."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960a4"
+  },
+  "genre": "hiphop",
+  "mood": "happy",
+  "music_description": "An energetic hip-hop beat filled with positivity and happiness, driven by bouncy synth melodies and crisp drum patterns, targeting a BPM of 80-90, with a preference for sampled vocal chops and dynamic hi-hats."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960a5"
+  },
+  "genre": "hiphop",
+  "mood": "ambient",
+  "music_description": "A fusion of hiphop beats with ambient textures, creating a dreamy atmosphere with a touch of urban groove, aiming for a BPM around 80-90, and featuring smooth electric piano melodies and subtle synth pads."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960a6"
+  },
+  "genre": "hiphop",
+  "mood": "ambient",
+  "music_description": "Combining the rhythmic intensity of hiphop with the ethereal soundscapes of ambient music, this track explores a BPM range of 70-80, incorporating deep basslines, crisp hi-hats, and shimmering guitar riffs, evoking a sense of nocturnal introspection."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960a7"
+  },
+  "genre": "hiphop",
+  "mood": "ambient",
+  "music_description": "Blending the raw energy of hiphop with the calming ambiance of ambient tones, this composition sets a BPM pace of 85-95, highlighted by pulsating drum patterns, haunting vocal samples, and echoing electric guitar motifs, capturing a mood that is both gritty and serene."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960a8"
+  },
+  "genre": "hiphop",
+  "mood": "action",
+  "music_description": "High-energy hip-hop track with a driving beat, perfect for intense chase scenes. BPM around 90-100, featuring gritty synth melodies and heavy bass lines."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960a9"
+  },
+  "genre": "hiphop",
+  "mood": "action",
+  "music_description": "Epic hip-hop anthem infused with action-packed vibes, ideal for adrenaline-pumping fight sequences. BPM set at 80-90, with aggressive drum patterns and explosive brass sections."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960aa"
+  },
+  "genre": "hiphop",
+  "mood": "action",
+  "music_description": "Dynamic hip-hop groove designed for thrilling heist scenes, with BPM ranging from 100-110. Incorporates pulsating electronic elements and edgy guitar riffs for added intensity."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960ab"
+  },
+  "genre": "hiphop",
+  "mood": "depression",
+  "music_description": "A melancholic hip hop track featuring deep basslines and introspective lyrics, with a BPM around 80."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960ac"
+  },
+  "genre": "hiphop",
+  "mood": "depression",
+  "music_description": "Slow-paced hip hop with poignant piano melodies and heartfelt lyrics, conveying themes of sadness and introspection."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960ad"
+  },
+  "genre": "hiphop",
+  "mood": "depression",
+  "music_description": "Moody hip hop beats accompanied by mellow guitar riffs and soulful vocals, evoking feelings of despair and contemplation."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960ae"
+  },
+  "genre": "lofi",
+  "mood": "energetic",
+  "music_description": "Upbeat lofi track with lively drum patterns, catchy melodies, and a BPM of 100, perfect for a motivational workout playlist."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960af"
+  },
+  "genre": "lofi",
+  "mood": "energetic",
+  "music_description": "High-energy lofi beats infused with funky basslines and vibrant synths, guaranteed to uplift your mood and keep you grooving."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960b0"
+  },
+  "genre": "lofi",
+  "mood": "energetic",
+  "music_description": "Lofi tune filled with energetic rhythms, lively piano chords, and cheerful trumpet solos, setting a positive and vibrant atmosphere."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960b1"
+  },
+  "genre": "lofi",
+  "mood": "happy",
+  "music_description": "Joyful lofi track featuring upbeat ukulele melodies, cheerful whistling, and a laid-back rhythm, bringing a smile to your face with its sunny vibes."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960b2"
+  },
+  "genre": "lofi",
+  "mood": "happy",
+  "music_description": "Lighthearted lofi beats accompanied by bright acoustic guitar strums and playful flute melodies, capturing the essence of pure happiness."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960b3"
+  },
+  "genre": "lofi",
+  "mood": "happy",
+  "music_description": "Feel-good lofi tune with bouncy basslines, feel-good piano chords, and uplifting vocal samples, radiating positivity and warmth."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960b4"
+  },
+  "genre": "lofi",
+  "mood": "ambient",
+  "music_description": "Atmospheric lofi track with ethereal synth pads, soothing nature sounds, and a gentle beat, creating a serene and tranquil ambiance."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960b5"
+  },
+  "genre": "lofi",
+  "mood": "ambient",
+  "music_description": "Ambient lofi vibes featuring distant guitar drones, subtle electronic textures, and soft percussion, perfect for relaxation and meditation."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960b6"
+  },
+  "genre": "lofi",
+  "mood": "ambient",
+  "music_description": "Dreamy lofi melodies intertwined with celestial soundscapes, evoking a sense of calmness and inner peace amidst the chaos of the world."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960b7"
+  },
+  "genre": "lofi",
+  "mood": "action",
+  "music_description": "Dynamic lofi track with intense drum breaks, gritty basslines, and aggressive synths, creating an adrenaline-fueled atmosphere reminiscent of a high-stakes chase scene."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960b8"
+  },
+  "genre": "lofi",
+  "mood": "action",
+  "music_description": "Action-packed lofi beats accompanied by pulsating rhythms, ominous melodies, and cinematic sound effects, setting the stage for an epic showdown."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960b9"
+  },
+  "genre": "lofi",
+  "mood": "action",
+  "music_description": "Energetic lofi tune filled with driving percussion, edgy guitar riffs, and suspenseful orchestral elements, immersing listeners in a thrilling sonic adventure"
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960ba"
+  },
+  "genre": "lofi",
+  "mood": "depression",
+  "music_description": "Lofi composition with melancholic piano melodies, subdued drum beats, and introspective vocal samples, reflecting feelings of loneliness and sadness."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960bb"
+  },
+  "genre": "lofi",
+  "mood": "depression",
+  "music_description": "Brooding lofi track featuring somber guitar chords, haunting atmospheres, and downtempo rhythms, capturing the essence of existential despair."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960bc"
+  },
+  "genre": "lofi",
+  "mood": "depression",
+  "music_description": "Dark and introspective lofi beats accompanied by melancholic violin melodies and lo-fi vocal chops, expressing the depths of emotional turmoil and inner conflict."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960bd"
+  },
+  "genre": "rock",
+  "mood": "energetic",
+  "music_description": "A high-energy rock track with driving drums, roaring guitars, and a BPM of 160, perfect for intense workout sessions."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960be"
+  },
+  "genre": "rock",
+  "mood": "energetic",
+  "music_description": "An electrifying rock anthem featuring powerful vocals, blazing guitar solos, and a BPM of 170, designed to ignite excitement."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960bf"
+  },
+  "genre": "rock",
+  "mood": "energetic",
+  "music_description": "A dynamic rock song with pounding rhythms, catchy melodies, and a BPM of 180, guaranteed to keep the adrenaline pumping."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960c0"
+  },
+  "genre": "rock",
+  "mood": "happy",
+  "music_description": "A lively rock tune with upbeat rhythms, cheerful lyrics, and a BPM of 150, ideal for joyful celebrations and parties."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960c1"
+  },
+  "genre": "rock",
+  "mood": "happy",
+  "music_description": "An uplifting rock ballad filled with bright guitar chords, energetic drumbeats, and a BPM of 140, spreading happiness all around."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960c2"
+  },
+  "genre": "rock",
+  "mood": "happy",
+  "music_description": "A feel-good rock anthem with catchy hooks, optimistic vibes, and a BPM of 160, sure to put a smile on everyone's face."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960c3"
+  },
+  "genre": "rock",
+  "mood": "ambient",
+  "music_description": "An ambient rock track with dreamy guitar textures, soothing synth pads, and a BPM of 120, creating a tranquil atmosphere."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960c4"
+  },
+  "genre": "rock",
+  "mood": "ambient",
+  "music_description": "A serene blend of rock and ambient elements, featuring gentle melodies, atmospheric effects, and a BPM of 110, perfect for relaxation."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960c5"
+  },
+  "genre": "rock",
+  "mood": "ambient",
+  "music_description": "An ethereal rock composition with atmospheric soundscapes, mellow guitar lines, and a BPM of 100, transporting listeners to a calm oasis."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960c6"
+  },
+  "genre": "rock",
+  "mood": "action",
+  "music_description": "An action-packed rock track with intense guitar riffs, driving basslines, and a BPM of 170, setting the stage for thrilling adventures."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960c7"
+  },
+  "genre": "rock",
+  "mood": "action",
+  "music_description": "A fast-paced rock anthem with explosive energy, aggressive vocals, and a BPM of 180, perfect for adrenaline-fueled scenes."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960c8"
+  },
+  "genre": "rock",
+  "mood": "action",
+  "music_description": "A high-octane rock composition featuring pounding drums, blistering guitar solos, and a BPM of 160, designed to fuel excitement and intensity."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960c9"
+  },
+  "genre": "rock",
+  "mood": "depression",
+  "music_description": "A melancholic rock ballad with haunting melodies, introspective lyrics, and a BPM of 100, expressing deep emotions of sadness and loss."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960ca"
+  },
+  "genre": "rock",
+  "mood": "depression",
+  "music_description": "A somber rock composition with mournful guitar solos, melancholic vocals, and a BPM of 110, capturing the essence of despair and longing."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960cb"
+  },
+  "genre": "rock",
+  "mood": "depression",
+  "music_description": "A poignant rock song with emotive chord progressions, soulful vocals, and a BPM of 120, reflecting on themes of heartbreak and melancholy."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960cc"
+  },
+  "genre": "cinematic",
+  "mood": "energetic",
+  "music_description": "A sonic explosion of orchestral power, fueled by thunderous percussion and soaring brass, driving forward at a heart-pounding 160 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960cd"
+  },
+  "genre": "cinematic",
+  "mood": "energetic",
+  "music_description": "An adrenaline-fueled symphony of strings and synths, accompanied by pulsating rhythms and epic choir vocals, propelling the listener into a thrilling journey at 170 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960ce"
+  },
+  "genre": "cinematic",
+  "mood": "energetic",
+  "music_description": "A symphonic tour de force blending electronic beats with orchestral grandeur, creating a dynamic soundscape of energy and excitement, reaching a crescendo at 180 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960cf"
+  },
+  "genre": "cinematic",
+  "mood": "happy",
+  "music_description": "A jubilant orchestral celebration featuring whimsical woodwinds, playful strings, and lively brass, dancing joyfully at 150 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960d0"
+  },
+  "genre": "cinematic",
+  "mood": "happy",
+  "music_description": "A euphoric symphonic arrangement bursting with sunshine and rainbows, adorned with sparkling harp glissandos and cheerful melodies, spreading happiness at 140 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960d1"
+  },
+  "genre": "cinematic",
+  "mood": "happy",
+  "music_description": "A symphonic ode to blissful moments, with cascading piano arpeggios, soaring strings, and triumphant horn fanfares, painting a portrait of pure joy at 160 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960d2"
+  },
+  "genre": "cinematic",
+  "mood": "ambient",
+  "music_description": "An ethereal journey through celestial realms, guided by shimmering pads, delicate piano melodies, and distant choir whispers, drifting serenely at 120 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960d3"
+  },
+  "genre": "cinematic",
+  "mood": "ambient",
+  "music_description": "A tranquil symphonic meditation on peace and tranquility, with gentle strings, ethereal voices, and ambient textures, floating weightlessly at 110 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960d4"
+  },
+  "genre": "cinematic",
+  "mood": "ambient",
+  "music_description": "A symphonic dreamscape of cosmic beauty, enveloping the listener in a cocoon of soft strings, celestial choirs, and soothing harp glissandos, unfolding gracefully at 100 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960d5"
+  },
+  "genre": "cinematic",
+  "mood": "action",
+  "music_description": "A pulse-pounding orchestral thriller, with driving percussion, intense brass stabs, and relentless string ostinatos, racing towards a heart-stopping climax at 170 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960d6"
+  },
+  "genre": "cinematic",
+  "mood": "action",
+  "music_description": "An epic symphonic battle between heroes and villains, featuring bombastic drums, heroic horn calls, and fiery string runs, unleashing a torrent of action at 180 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960d7"
+  },
+  "genre": "cinematic",
+  "mood": "action",
+  "music_description": "A symphonic adrenaline rush of epic proportions, combining soaring melodies, thunderous rhythms, and hair-raising crescendos, delivering a cinematic spectacle at 160 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960d8"
+  },
+  "genre": "cinematic",
+  "mood": "depression",
+  "music_description": "A haunting symphonic lament, with mournful strings, melancholic woodwinds, and desolate choir whispers, evoking a sense of profound sorrow at 100 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960d9"
+  },
+  "genre": "cinematic",
+  "mood": "depression",
+  "music_description": "A symphonic elegy for lost dreams, filled with somber piano chords, weeping strings, and distant echoes of despair, echoing through the emptiness at 110 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960da"
+  },
+  "genre": "cinematic",
+  "mood": "depression",
+  "music_description": "A melancholic symphonic reverie, with achingly beautiful melodies, tearful violin solos, and mournful brass chorales, plunging the listener into the depths of melancholy at 120 BPM."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960db"
+  },
+  "genre": "jazz",
+  "mood": "energetic",
+  "music_description": "A lively jazz piece with swinging rhythms, vibrant horns, and a BPM of 180, guaranteed to get your feet tapping."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960dc"
+  },
+  "genre": "jazz",
+  "mood": "energetic",
+  "music_description": "An energetic jazz ensemble featuring blazing trumpet solos, dynamic piano chords, and a BPM of 200, perfect for lively soirées."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960dd"
+  },
+  "genre": "jazz",
+  "mood": "energetic",
+  "music_description": "A high-octane jazz composition with driving basslines, frenetic drumming, and a BPM of 190, designed to keep the energy levels high."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960de"
+  },
+  "genre": "jazz",
+  "mood": "happy",
+  "music_description": "A joyful jazz tune with upbeat melodies, infectious grooves, and a BPM of 160, spreading happiness wherever it plays."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960df"
+  },
+  "genre": "jazz",
+  "mood": "happy",
+  "music_description": "An uplifting jazz ballad filled with sunny brass sections, swinging rhythms, and a BPM of 150, guaranteed to lift spirits."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960e0"
+  },
+  "genre": "jazz",
+  "mood": "happy",
+  "music_description": "A feel-good jazz ensemble featuring cheerful saxophone solos, playful piano lines, and a BPM of 170, perfect for celebratory occasions."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960e1"
+  },
+  "genre": "jazz",
+  "mood": "ambient",
+  "music_description": "An ambient jazz track with mellow guitar chords, soft trumpet tones, and a BPM of 120, creating a relaxing atmosphere."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960e2"
+  },
+  "genre": "jazz",
+  "mood": "ambient",
+  "music_description": "A serene blend of jazz and ambient elements, featuring dreamy saxophone melodies, soothing piano keys, and a BPM of 110, ideal for unwinding."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960e3"
+  },
+  "genre": "jazz",
+  "mood": "ambient",
+  "music_description": "An ethereal jazz composition with atmospheric soundscapes, gentle percussion, and a BPM of 100, transporting listeners to a tranquil realm."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960e4"
+  },
+  "genre": "jazz",
+  "mood": "action",
+  "music_description": "An action-packed jazz fusion piece with fiery saxophone runs, pulsating basslines, and a BPM of 170, perfect for dynamic scenes."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960e5"
+  },
+  "genre": "jazz",
+  "mood": "action",
+  "music_description": "A fast-paced jazz ensemble featuring intense drumming, virtuosic improvisations, and a BPM of 180, setting the stage for thrilling adventures."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960e6"
+  },
+  "genre": "jazz",
+  "mood": "action",
+  "music_description": "A high-energy jazz composition with frenetic piano solos, driving rhythms, and a BPM of 190, designed to keep the adrenaline pumping."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960e7"
+  },
+  "genre": "jazz",
+  "mood": "depression",
+  "music_description": "A melancholic jazz ballad with plaintive trumpet melodies, haunting piano chords, and a BPM of 90, expressing deep emotions of sadness and longing."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960e8"
+  },
+  "genre": "jazz",
+  "mood": "depression",
+  "music_description": "A somber jazz composition with brooding saxophone solos, melancholic basslines, and a BPM of 100, capturing the essence of despair and introspection."
+},
+{
+  "_id": {
+    "$oid": "6662e477786c1599f4e960e9"
+  },
+  "genre": "jazz",
+  "mood": "depression",
+  "music_description": "A poignant jazz tune with emotive chord progressions, soulful trumpet lines, and a BPM of 110, reflecting on themes of heartbreak and melancholy."
+}]
