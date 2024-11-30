@@ -21,9 +21,6 @@ Requirements:
     c. To download mongoDB Compass (GUI), https://www.mongodb.com/try/download/compass
 
 -------------------------------------------------------------------------------------------
-One Drive link for images, videos, audios, and databases: 
-https://mmuedumy-my.sharepoint.com/:f:/r/personal/cplee_mmu_edu_my/Documents/FYP/FYP%20Tri%201%202023_2024/Tan%20Yi%20Joe/FYP%202/harmonicai?csf=1&web=1&e=Hu18mV
-
 1. To download the images, videos, and audios, go to this path: harmonicai/frontend/src/assets/
 2. To download the databases, go to: harmonicai/backend/database/
 
@@ -38,7 +35,6 @@ Database preparation:
     e. For each collection, import the JSON data from '/harmonicai/backend/database/HarmonicAI.{collection_name}'
 
 -------------------------------------------------------------------------------------------
-
 To run the application successfully:
 1. Download and unzip the whole harmonicai folder.
 2. Open a new terminal.
